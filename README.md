@@ -1,1 +1,1 @@
-# Poster-General-Meeting-2019
+# Tightening QC Relaxations of AC Optimal Power Flow Problems via Coordinate Transformations 
